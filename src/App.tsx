@@ -116,45 +116,12 @@ export default function App() {
       price: 10000,
       img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215327.png",
     },
-
-    {
-      id: 102,
-      category: "custom",
-      name: { th: "Stancer Kit" },
-      price: 1000,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215441.png",
-    },
-
-    {
-      id: 103,
-      category: "custom",
-      name: { th: "Vehicle Wheels Set" },
-      price: 2000,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215128.png",
-    },
-
     {
       id: 104,
       category: "custom",
       name: { th: "Cosmetic Parts" },
       price: 1000,
       img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215058.png",
-    },
-
-    {
-      id: 105,
-      category: "custom",
-      name: { th: "Lighting Controller" },
-      price: 1000,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215026.png",
-    },
-
-    {
-      id: 106,
-      category: "custom",
-      name: { th: "Extras Kit" },
-      price: 1000,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-214954.png",
     },
 
     {
@@ -165,6 +132,32 @@ export default function App() {
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-214850.png",
     },
 
+    {
+      id: 103,
+      category: "custom",
+      name: { th: "Vehicle Wheels Set" },
+      price: 2000,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215128.png",
+    },
+
+    
+    {
+      id: 105,
+      category: "custom",
+      name: { th: "Lighting Controller" },
+      price: 1000,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215026.png",
+    },
+
+    
+    
+    {
+      id: 102,
+      category: "custom",
+      name: { th: "Stancer Kit" },
+      price: 1000,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215441.png",
+    },
     {
       id: 108,
       category: "custom",
