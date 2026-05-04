@@ -174,7 +174,6 @@ export default function App() {
     },
 
     // Core Parts
-
     {
       id: 201,
       category: "Core Parts",
@@ -182,6 +181,21 @@ export default function App() {
       price: 200,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212455.png",
     },
+    {
+      id: 206,
+      category: "Core Parts",
+      name: { th: "Alternator" },
+      price: 500,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212548.png",
+    },
+    {
+      id: 209,
+      category: "Core Parts",
+      name: { th: "Brakes" },
+      price: 500,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212448.png",
+    },
+    
 
     {
       id: 202,
@@ -199,30 +213,7 @@ export default function App() {
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212341.png",
     },
 
-    {
-      id: 204,
-      category: "Core Parts",
-      name: { th: "Electric Motor" },
-      price: 500,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212501.png",
-    },
-
-    {
-      id: 205,
-      category: "Core Parts",
-      name: { th: "EV Battery" },
-      price: 500,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212351.png",
-    },
-
-    {
-      id: 206,
-      category: "Core Parts",
-      name: { th: "Alternator" },
-      price: 500,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212548.png",
-    },
-
+   
     {
       id: 207,
       category: "Core Parts",
@@ -238,105 +229,26 @@ export default function App() {
       price: 500,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212507.png",
     },
-
     {
-      id: 209,
+      id: 205,
       category: "Core Parts",
-      name: { th: "Brakes" },
+      name: { th: "EV Battery" },
       price: 500,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212448.png",
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212351.png",
     },
+
+    
+    {
+      id: 204,
+      category: "Core Parts",
+      name: { th: "Electric Motor" },
+      price: 500,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212501.png",
+    },
+
+ 
 
     // Service
-
-    {
-      id: 301,
-      category: "Service",
-      name: { th: "Tires" },
-      price: 300,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-214750.png",
-    },
-
-    {
-      id: 302,
-      category: "Service",
-      name: { th: "Oil Filter" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212532.png",
-    },
-
-    {
-      id: 303,
-      category: "Service",
-      name: { th: "Fuel Filter" },
-      price: 300,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215321.png",
-    },
-
-    {
-      id: 304,
-      category: "Service",
-      name: { th: "Drive Belt" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214705.png",
-    },
-
-    {
-      id: 305,
-      category: "Service",
-      name: { th: "Brake Pads" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214628.png",
-    },
-
-    {
-      id: 306,
-      category: "Service",
-      name: { th: "Steering Fluid" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212438.png",
-    },
-
-    {
-      id: 307,
-      category: "Service",
-      name: { th: "Spark Plugs" },
-      price: 300,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-214549.png",
-    },
-
-    {
-      id: 308,
-      category: "Service",
-      name: { th: "High Voltage Wiring" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212429.png",
-    },
-
-    {
-      id: 309,
-      category: "Service",
-      name: { th: "Coolant" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214454.png",
-    },
-
-    {
-      id: 310,
-      category: "Service",
-      name: { th: "Brake Fluid" },
-      price: 300,
-      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212538.png",
-    },
-
-    {
-      id: 311,
-      category: "Service",
-      name: { th: "Battery Coolant" },
-      price: 300,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212515.png",
-    },
-
     {
       id: 312,
       category: "Service",
@@ -344,16 +256,91 @@ export default function App() {
       price: 300,
       img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212553.png",
     },
-
+   {
+      id: 310,
+      category: "Service",
+      name: { th: "Brake Fluid" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212538.png",
+    },
+ {
+      id: 305,
+      category: "Service",
+      name: { th: "Brake Pads" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214628.png",
+    },
+ {
+      id: 309,
+      category: "Service",
+      name: { th: "Coolant" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214454.png",
+    },
+ {
+      id: 304,
+      category: "Service",
+      name: { th: "Drive Belt" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-214705.png",
+    },
+{
+      id: 303,
+      category: "Service",
+      name: { th: "Fuel Filter" },
+      price: 300,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-10-215321.png",
+    },
+ {
+      id: 302,
+      category: "Service",
+      name: { th: "Oil Filter" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212532.png",
+    },
+ {
+      id: 306,
+      category: "Service",
+      name: { th: "Steering Fluid" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212438.png",
+    },
+ {
+      id: 307,
+      category: "Service",
+      name: { th: "Spark Plugs" },
+      price: 300,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-214549.png",
+    },
     {
+      id: 301,
+      category: "Service",
+      name: { th: "Tires" },
+      price: 300,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-214750.png",
+    },
+{
       id: 313,
       category: "Service",
       name: { th: "Transmission Fluid" },
       price: 300,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212558.png",
     },
+    {
+      id: 311,
+      category: "Service",
+      name: { th: "Battery Coolant" },
+      price: 300,
+      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212515.png",
+    },
+   {
+      id: 308,
+      category: "Service",
+      name: { th: "High Voltage Wiring" },
+      price: 300,
+      img: "https://img2.pic.in.th/Screenshot-2026-04-06-212429.png",
+    },
   ];
-
   /* cart */
 
   const add = (item: any) => {
