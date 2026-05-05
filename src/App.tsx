@@ -30,7 +30,7 @@ export default function App() {
   /* customer */
   useEffect(() => {
     fetch(
-      "https://script.google.com/macros/s/AKfycbxZHbzdLALTjRKQGWH6CPJvVqne08UwfmC6L2pERxxp0dXXPXZHyxXNOOWjKMuzRIAuuA/exec"
+      "https://script.google.com/macros/s/AKfycbyiDOq89bHfEiip0TZS08RnqBvAn71XKvthICWiUbBMtCB9_TOD85MTVV38Bv7J1PpQUA/exec"
     )
       .then((r) => r.json())
 
@@ -412,7 +412,7 @@ export default function App() {
     const order = cart.map((i) => `${i.name.th} x ${i.qty}`).join(", ");
 
     await fetch(
-      "https://script.google.com/macros/s/AKfycbxZHbzdLALTjRKQGWH6CPJvVqne08UwfmC6L2pERxxp0dXXPXZHyxXNOOWjKMuzRIAuuA/exec",
+      "https://script.google.com/macros/s/AKfycbyiDOq89bHfEiip0TZS08RnqBvAn71XKvthICWiUbBMtCB9_TOD85MTVV38Bv7J1PpQUA/exec",
       {
         method: "POST",
         mode: "no-cors",
