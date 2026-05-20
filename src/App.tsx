@@ -21,9 +21,10 @@ export default function App() {
   const employees = [
     "Jann_Burrell",
     "Kenji_Oyama",
-    "Lucas_Harper",
     "Enzo_Scarlatti",
+    "Lucas_Harper",
     "Tsukuyomi_Takuya",
+    "Shikishima_Sendou",
     "Akano_Suka",
   ];
 
@@ -142,11 +143,11 @@ export default function App() {
 
     
     {
-      id: 105,
+      id: 106,
       category: "custom",
-      name: { th: "Lighting Controller" },
+      name: { th: "Extras_Kit" },
       price: 1000,
-      img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-215026.png",
+      img: "https://img1.pic.in.th/images/Screenshot-2026-05-21-011419.png",
     },
 
     
