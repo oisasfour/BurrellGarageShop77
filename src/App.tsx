@@ -172,21 +172,21 @@ export default function App() {
       id: 201,
       category: "Core Parts",
       name: { th: "Repair Kit" },
-      price: 200,
+      price: 300,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212455.png",
     },
     {
       id: 206,
       category: "Core Parts",
       name: { th: "Alternator" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212548.png",
     },
     {
       id: 209,
       category: "Core Parts",
       name: { th: "Brakes" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212448.png",
     },
     
@@ -195,7 +195,7 @@ export default function App() {
       id: 202,
       category: "Core Parts",
       name: { th: "Fuel Injector" },
-      price: 500,
+      price: 600,
       img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212409.png",
     },
 
@@ -203,7 +203,7 @@ export default function App() {
       id: 203,
       category: "Core Parts",
       name: { th: "Power Steering Pump" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212341.png",
     },
 
@@ -212,7 +212,7 @@ export default function App() {
       id: 207,
       category: "Core Parts",
       name: { th: "Radiator" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212523.png",
     },
 
@@ -220,14 +220,14 @@ export default function App() {
       id: 208,
       category: "Core Parts",
       name: { th: "Transmission" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212507.png",
     },
     {
       id: 205,
       category: "Core Parts",
       name: { th: "EV Battery" },
-      price: 500,
+      price: 600,
       img: "https://img2.pic.in.th/Screenshot-2026-04-06-212351.png",
     },
 
@@ -236,7 +236,7 @@ export default function App() {
       id: 204,
       category: "Core Parts",
       name: { th: "Electric Motor" },
-      price: 500,
+      price: 600,
       img: "https://img1.pic.in.th/images/Screenshot-2026-04-06-212501.png",
     },
 
