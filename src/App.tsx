@@ -630,7 +630,7 @@ const tabs = {
 };
 
 const tab = (active: boolean) => ({
-  background: active ? "#1565c0" : "#e3f2fd",
+  background: active ? "#0b386b" : "#858585",
 
   color: active ? "white" : "#0d47a1",
 
@@ -643,7 +643,7 @@ const tab = (active: boolean) => ({
 const card = {
   display: "flex",
   gap: 10,
-  background: "white",
+  background: "#4d4d4d",
   padding: 12,
   marginTop: 12,
   borderRadius: 14,
@@ -667,7 +667,7 @@ const addBtn = {
 const cartRow = {
   display: "flex",
   justifyContent: "space-between",
-  background: "white",
+  background: "262626",
   padding: 10,
   marginTop: 8,
   borderRadius: 10,
@@ -690,14 +690,14 @@ const popupBg: React.CSSProperties = {
   left: 0,
   right: 0,
   bottom: 0,
-  background: "rgba(0,0,0,0.4)",
+  background: "#262626",
   display: "flex",
   alignItems: "center",
   justifyContent: "center",
 };
 
 const popupBox = {
-  background: "white",
+  background: "#262626",
   padding: 25,
   borderRadius: 15,
 };
