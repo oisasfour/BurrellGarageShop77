@@ -632,7 +632,7 @@ const tabs = {
 const tab = (active: boolean) => ({
   background: active ? "#0b386b" : "#858585",
 
-  color: active ? "white" : "#0d47a1",
+  color: active ? "#858585" : "#0d47a1",
 
   border: "none",
   padding: "8px 14px",
