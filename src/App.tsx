@@ -21,11 +21,11 @@ export default function App() {
   const employees = [
     "Jann_Burrell",
     "Kenji_Oyama",
-    "Enzo_Scarlatti",
-    "Lucas_Harper",
     "Tsukuyomi_Takuya",
     "Shikishima_Sendou",
-    "Akano_Suka",
+    "Marco_Tempesta",
+    "Hugo_Marshall",
+    "Ethan_Weston ",
   ];
 
   /* customer */
