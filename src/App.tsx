@@ -620,7 +620,7 @@ const input = {
   marginTop: 10,
   padding: 12,
   borderRadius: 12,
-  border: "1px solid #ddd",
+  border: "1px solid #262626",
 };
 
 const tabs = {
@@ -667,7 +667,7 @@ const addBtn = {
 const cartRow = {
   display: "flex",
   justifyContent: "space-between",
-  background: "262626",
+  background: "#262626",
   padding: 10,
   marginTop: 8,
   borderRadius: 10,
