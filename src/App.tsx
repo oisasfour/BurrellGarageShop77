@@ -604,7 +604,7 @@ const spinner: React.CSSProperties = {
 };
 
 const page = {
-  maxWidth: 1200,
+  maxWidth: "100%",
   margin: "auto",
   padding: 20,
   background: "#262626",
