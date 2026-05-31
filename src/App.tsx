@@ -607,7 +607,7 @@ const page = {
   maxWidth: 1200,
   margin: "auto",
   padding: 20,
-  background: "#f0f4ff",
+  background: "#262626",
   fontFamily: "Poppins",
 };
 
