@@ -24,8 +24,8 @@ export default function App() {
     "Tsukuyomi_Takuya",
     "Shikishima_Sendou",
     "Marco_Tempesta",
-    "Hugo_Marshall",
-    "Ethan_Weston ",
+    "Draco_banks",
+    
   ];
 
   /* customer */
