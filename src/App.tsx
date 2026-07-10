@@ -26,7 +26,10 @@ export default function App() {
     "Marco_Tempesta",
     "Draco_banks",
     "Luther_Alexei_Morozov",
-    
+    "Ryan cooper",
+    "Nash Wilder",
+    "Yume Kawasumi",
+
   ];
 
   /* customer */
