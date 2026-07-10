@@ -25,6 +25,7 @@ export default function App() {
     "Shikishima_Sendou",
     "Marco_Tempesta",
     "Draco_banks",
+    "Luther_Alexei_Morozov",
     
   ];
 
