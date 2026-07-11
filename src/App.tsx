@@ -19,6 +19,7 @@ export default function App() {
   /* employee */
 
   const employees = [
+    "Luther_Alexei_Morozov",
     "Jann_Burrell",
     "Kenji_Oyama",
     "Tsukuyomi_Takuya",
@@ -26,10 +27,10 @@ export default function App() {
     "Marco_Tempesta",
     "Draco_banks",
     "Jason Aoapo",
-    "Luther_Alexei_Morozov",
     "Ryan cooper",
     "Nash Wilder",
     "Yume Kawasumi",
+    "Edgar_Malone",
 
   ];
 
