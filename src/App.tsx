@@ -459,7 +459,7 @@ export default function App() {
         </div>
       )}
 
-      <h2 style={title}>Burrell Garage Shop</h2>
+      <h2 style={title}>𝐕.𝐌.𝐎. 𝐋𝐔𝐂𝐊𝐘 𝐒𝐏𝐄𝐄𝐃 𝐂𝐔𝐒𝐓𝐎𝐌</h2>
       <h2 style={title}>กดรีเฟรชทุกครั้ง ก่อนกดเบิก</h2>
       <select
         value={employee}
